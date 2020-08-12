@@ -7,4 +7,4 @@ This is a demo of my personal web, site generated with:
 
 ### Demostrative Image
 
-![demoweb](image-preview.png)
+![demoweb](/images/image-preview.png)
