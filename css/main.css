@@ -1,0 +1,44 @@
+.header{
+    background: url(/images/background-computer.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.jumbotron{
+    background-color: transparent;
+}
+.text-container{
+    margin-bottom: 10rem;
+}
+.logo{
+    position: relative;
+    top: -3rem;
+    max-width: 6rem;
+}
+.header{
+    box-shadow: 0em 0em 0.2em 0.2em rgba(0,0,0,0.4);
+}
+.trabajos{
+    background-color: #EEE;
+
+}
+footer{
+    background-color:#252850;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+.social >div >li >a >span{
+    color: #c5c5c5;
+    font-size: 4rem;
+}
+.navbar-scrolled{
+    background-color: rgba(0,0,0,0.3) !important;
+}
+.github:hover{
+    background-color: black;
+}
+.facebook:hover{
+    background-color: #3b5998;
+}
+.linkedin:hover{
+    background-color: #0e76a8;
+}
